@@ -1,0 +1,14 @@
+# C/C++ compiled binaries and objects
+*.exe
+*.o
+*.out
+
+# VS Code settings (keeps your local workspace configs private)
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Java compiled classes
+*.class
