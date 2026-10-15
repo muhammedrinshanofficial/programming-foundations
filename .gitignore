@@ -2,6 +2,7 @@
 *.exe
 *.o
 *.out
+test.c
 
 # VS Code settings (keeps your local workspace configs private)
 .vscode/
